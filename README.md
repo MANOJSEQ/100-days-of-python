@@ -8,6 +8,8 @@ I created this repository to track my progress and improve my Python programming
 
 - Day 01 - Band Name Generator
 - Day 02 - Tip Calculator
+- Day 03 - Treasure Island
+- Day 04 - Rock Paper Scissors
 
 ## Course
 
