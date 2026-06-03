@@ -10,6 +10,7 @@ I created this repository to track my progress and improve my Python programming
 - Day 02 - Tip Calculator
 - Day 03 - Treasure Island
 - Day 04 - Rock Paper Scissors
+- Day 05 - Password Generator
 
 ## Course
 
