@@ -11,6 +11,7 @@ I created this repository to track my progress and improve my Python programming
 - Day 03 - Treasure Island
 - Day 04 - Rock Paper Scissors
 - Day 05 - Password Generator
+- Day 06 - Escaping the Maze
 
 ## Course
 
