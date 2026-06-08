@@ -13,6 +13,7 @@ I created this repository to track my progress and improve my Python programming
 - Day 05 - Password Generator
 - Day 06 - Escaping the Maze
 - Day 07 - Hangman
+- Day 08 - Caesar Cipher
 
 ## Course
 
